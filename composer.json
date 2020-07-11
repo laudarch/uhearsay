@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mashape/unirest-php": "^3.0",
+        "mikecao/flight": "^1.2"
+    }
+}
